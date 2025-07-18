@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "logic-sim-core",
+    "logic-sim-serialiser",
+    "logic-sim-optimiser",
+    "logic-sim-runner",
+    "logic-workbench"
+]
+resolver = "3"
